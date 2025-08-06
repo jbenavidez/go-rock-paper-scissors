@@ -7,4 +7,5 @@ On your terminal, run `go run main.go` to init the server, and your browser acce
 
 E.g
 
-<img width="775" height="607" alt="Screenshot 2025-08-05 at 9 19 09 PM" src="https://github.com/user-attachments/assets/38b1346e-144d-4cfa-9ff3-1d2a2f02c0e0" />
+ 
+<img width="706" height="573" alt="Screenshot 2025-08-05 at 9 20 19 PM" src="https://github.com/user-attachments/assets/71f47530-fe65-4570-b0a1-f3a6053e133f" />
